@@ -1,0 +1,23 @@
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\bin\Debug\net7.0-windows\Test Retgo - Intan.exe
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\bin\Debug\net7.0-windows\Test Retgo - Intan.deps.json
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\bin\Debug\net7.0-windows\Test Retgo - Intan.runtimeconfig.json
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\bin\Debug\net7.0-windows\Test Retgo - Intan.dll
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\bin\Debug\net7.0-windows\Test Retgo - Intan.pdb
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test Retgo - Intan.csproj.AssemblyReference.cache
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test Retgo - Intan.csproj.GenerateResource.cache
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test Retgo - Intan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test Retgo - Intan.AssemblyInfoInputs.cache
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test Retgo - Intan.AssemblyInfo.cs
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test Retgo - Intan.csproj.CoreCompileInputs.cache
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test Retgo - Intan.csproj.CopyComplete
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test Retgo - Intan.dll
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\refint\Test Retgo - Intan.dll
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test Retgo - Intan.pdb
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test Retgo - Intan.genruntimeconfig.cache
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\ref\Test Retgo - Intan.dll
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test_Retgo___Intan.FormLogin.resources
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test_Retgo___Intan.FormRegister.resources
+C:\Users\Ryve\source\repos\Test Retgo - Intan\Test Retgo - Intan\obj\Debug\net7.0-windows\Test_Retgo___Intan.FormProfil.resources

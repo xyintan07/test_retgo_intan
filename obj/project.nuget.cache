@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7dZxm60EqSRE10z+erx3rDAkRFv+59sNg84H1GAXNr2C+T1MG5UAO9fWdVd9TT0ZnnVS720JVn0BYmZ0wAQLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryve\\source\\repos\\Test Retgo - Intan\\Test Retgo - Intan\\Test Retgo - Intan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryve\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ryve\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ryve\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
